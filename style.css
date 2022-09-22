@@ -63,13 +63,12 @@ top: 0px;
     }
     #imagem_icone2{
         height: auto;
-        width: 28px;
+        width: 30px;
     }
     #imagem_icone{
         height: auto;
-        width: 28px;
-    }
-
+        width: 30px;
+        margin-left: -12px;
     }
 
 /* Corpo do site */
