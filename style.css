@@ -8,7 +8,7 @@
 /* font-family: 'Dangrek', cursive; */
 body{
     background-color: #fdfdfa;
-    font-family: 'Dangrek', cursive;
+     font-family: 'Dangrek', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
     min-height: 100vh;
 }
 .flex-container {
