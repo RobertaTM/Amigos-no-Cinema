@@ -57,7 +57,7 @@ top: 0px;
 
 /* Responsividade Header */
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 600px){
     #text_header{
         font-size: 30px;
     }
@@ -128,9 +128,18 @@ footer{
       bottom: 0;
     }
 
-    @media only screen and (max-width: 400px){
-        footer{
-
+      @media only screen and (max-width: 380px){
+        #text_header{
+            font-size: 24px;
+        }
+        #imagem_icone2{
+            height: auto;
+            width: 24px;
+        }
+        #imagem_icone{
+            height: auto;
+            width: 24px;
+            margin-left: -12px;
         }
 
     }
